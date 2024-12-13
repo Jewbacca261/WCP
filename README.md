@@ -44,19 +44,15 @@ Built using **Laravel 11**, **Tailwind CSS**, and **daisyUI**, this panel provid
 - **Tailwind CSS**: Utility-first CSS framework for creating custom designs quickly.
 - **daisyUI**: A component library built on top of Tailwind CSS for fast UI development with prebuilt components.
 
----
 
 ## Multiple Server Support
 
 This control panel allows you to manage **multiple servers** from a single interface. You can configure and manage each server independently, and view server stats, websites, databases, and more.
 
----
 
 ## License
 
 This project is licensed under the **GNU Affero General Public License** - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgements
 
@@ -64,5 +60,3 @@ This project is licensed under the **GNU Affero General Public License** - see t
 - [Tailwind CSS](https://tailwindcss.com) for the utility-first CSS framework.
 - [daisyUI](https://daisyui.com) for the easy-to-use component library.
 - [Font Awesome](https://fontawesome.com) for the icons.
-
----
